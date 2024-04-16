@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
 background-color: lightblue;
 }
@@ -5,4 +6,13 @@ background-color: lightblue;
 h1 {
 color: navy;
 margin-left: 20px;
+=======
+body {
+background-color: lightblue;
+}
+
+h1 {
+color: navy;
+margin-left: 20px;
+>>>>>>> 39c71a82861c6b444772240972da9de73c2719f0
 }
