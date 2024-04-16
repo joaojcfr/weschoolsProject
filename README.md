@@ -6,5 +6,3 @@ This repository is built step by step in the tutorial.
 anything here
 changin again
 
-
-adding a new line right here
